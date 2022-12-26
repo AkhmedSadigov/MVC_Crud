@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCBootsrap", "MVCBootsrap\MVCBootsrap.csproj", "{A26E0FE5-D0CA-4161-A0B5-DDA828C6B6FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A26E0FE5-D0CA-4161-A0B5-DDA828C6B6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26E0FE5-D0CA-4161-A0B5-DDA828C6B6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26E0FE5-D0CA-4161-A0B5-DDA828C6B6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26E0FE5-D0CA-4161-A0B5-DDA828C6B6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EB13E54-D494-405A-AB73-D25F5B0A41B1}
+	EndGlobalSection
+EndGlobal
